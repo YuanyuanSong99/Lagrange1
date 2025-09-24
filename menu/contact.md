@@ -4,7 +4,7 @@ title: Leadership
 permalink: /contact
 ---
 
-- Leader of **Research Journey to Earth Sciences**
+- Leader of **Research Journeys in Earth Sciences** project
   
   Award: $1500 for 2025-2026
 
