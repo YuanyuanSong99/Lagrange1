@@ -1,5 +1,7 @@
 ---
 layout: archive
-title: Writing
+title: Publication
 permalink: /writing
 ---
+
+These are my publications.
