@@ -4,7 +4,7 @@ title: "Welcome!"
 author: "Yuanyuan Song"
 categories: journal
 tags: [documentation,sample]
-image: mountains.jpg
+image: IMG_7984.jpg
 ---
 
 I'm a Postdoc at MIT, working with Dr. Gaël Forget in Prof. Mick Follows group. My research interests lie broadly in interaction between pole regions (Arctic and Antarctica) and mid-latitude climate, ocean heat transport and storage under climate change, as well as long-term trend and decadal varibility in atmosphere and ocean.
