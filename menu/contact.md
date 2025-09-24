@@ -10,7 +10,7 @@ permalink: /contact
 
 - Representative of postdocs in MIT EAPS department
 
-- Leader of **China Group on Climate Change and Sustainability** (54 members)
+- Leader of [**China Group on Climate Change and Sustainability**](https://cis.mit.edu/current-working-groups) (54 members)
 
   Award: $2000 for 2024-2025
 
