@@ -22,9 +22,13 @@ permalink: /writing
 
 ## Talks and Conferences
 
-[11] AGU Fall Meeting in Washington DC, December 2024. (_**Oral and Poster**_)
+[13] AGU Fall Meeting in Washington DC, December 2024. ([_**Oral**_](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1675062) and [_**Poster**_](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1678292))
 
-[10] ECCO Hackweek at Caltech, October 2024.
+[12] ECCO Hackweek at Caltech, October 2024. ([_**Training**_](https://ecco-group.org/hackweek2024.htm))
+
+[11] ESAC Student Seminar at MIT, September 2024. ([_**Talk**_](https://eaps.mit.edu/events/esac-student-seminar-yuanyuan-song/))
+
+[10] EAPS Atrium Talk Series at MIT, July 2024. ([_**Talk**_](https://eaps.mit.edu/events/eats-yuanyuan-song/))
 
 [9] Polar Sea Ice and Climate Change Seminar in Qingdao, June 2024. (_**Invited talk**_)
 
