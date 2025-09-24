@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Learning Resources"
-author: "Paul Le"
+title: "Heat storage in the subtropical upper layer ocean"
+author: "Yuanyuan Song"
 categories: journal
 tags: [documentation,sample]
 image: spools.jpg
 ---
 
-The beauty of computer programming is that you do not need to formally go to school to learn how to program. You can learn almost everything that you would need to know online, and for free. The following resources are some that I have used personally, that I highly recommend, for anyone looking to learn more about computer programming.
+The mode water is the key layer to connect atmosphere and deeper ocean.
 
 ## [Free Code Camp](https://www.freecodecamp.org/)
 
