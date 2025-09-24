@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Welcome to Lagrange!
+title: Welcome!
 permalink: /about
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+I'm a postdoc in MIT, working with Gaël Forget in Mick Follows group.
 
 ### Getting Started
 
