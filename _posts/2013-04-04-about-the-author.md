@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "About the Author"
-author: "Paul Le"
+title: "Marine heat waves under climate change"
+author: "Yuanyuan Song"
 categories: journal
 tags: [documentation,sample]
 image: cutting.jpg
