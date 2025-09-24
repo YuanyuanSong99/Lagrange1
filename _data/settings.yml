@@ -13,6 +13,6 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'orcid',     link: 'https://orcid.org/my-orcid?orcid=0000-0003-0810-0930'}
+- {icon: 'orcid',     link: 'https://orcid.org/0000-0003-0810-0930'}
 - {icon: 'google',    link: 'https://scholar.google.com/citations?user=mmXr068AAAAJ&hl=zh-CN'}
 - {icon: 'graduation-cap',   link: 'https://www.researchgate.net/profile/Yuanyuan-Song-2'}
