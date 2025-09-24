@@ -17,7 +17,7 @@ The key scientific questions to me are:
 
   - What actions can we take to save ourselves from climate crisis?
 
-Keeping these questions in mind, I wanna explore these research interests in the future:
+Keeping these questions in mind, I wanna explore these research directions in the future:
   - Climate impacts of aerosols
   - Carbon dioxide storage in the ocean
   - Wild fires
