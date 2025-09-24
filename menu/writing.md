@@ -4,4 +4,6 @@ title: Publication
 permalink: /writing
 ---
 
-These are my publications.
+[8] **Yuanyuan Song** and Gaël Forget. Temperature Change in Mode Water Source Regions. (_**In preparation**_) 
+
+[7]
