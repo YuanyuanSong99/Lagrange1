@@ -9,12 +9,7 @@ image: forest.jpg
 
 # Long-term thermal change in the Southern Ocean
 
-The Southern Ocean is a major contributor to global ocean heat uptake.
-Lagrange is a minimalist Jekyll theme for running a personal blog or site for free through [Github Pages](https://pages.github.com/), or on your own server. Everything that you will ever need to know about this Jekyll theme is included in the README below, which you can also find in [the demo site](https://lenpaul.github.io/Lagrange/). For a guide on how to deploy a Jekyll site using GitHub Pages, please check out [this article](https://paulle.ca/jekyll-tutorials/deploy-jekyll-site-github-pages).
-
-If you like my work then please consider supporting me with [Ko-fi](https://ko-fi.com/paulle).
-
-![alt text](https://user-images.githubusercontent.com/8409329/32631384-17107870-c56e-11e7-932f-deeb7c12e4db.png "Lagrange Demo Image")
+Greenhouse gases have trapped excess heat in the Earth system, yet the surface air warming, which is felt directly by people and is the most visible sign of climate change, only represents less than 2% of this heat. The remaining 98% has been absorbed by the ocean, with the Southern Ocean and Atlantic acting as the dominant heat reservoirs. In the 0-2000 m layer, the Southern Ocean has contributed ~60% of global upper-ocean heat storage, characterized by a distinctive meridional warming structure between 35°S and 55°S, with a maximum near 45°S. Zonal-mean analyses highlight the meridional structure but obscure zonal patterns. Our recent work has revealed a pronounced inter-basin contrast: the Atlantic–Indian sector has warmed 40% faster than the Pacific sector in the upper 0–700 m, primarily due to intensified westerly winds that enhance upper-ocean heat convergence. Projections suggest that this inter-basin contrast will continue and intensify over the course of the 21st century. These findings underscore the importance of inter-basin differences in shaping Southern Ocean climate, ice dynamics, and marine ecosystems. 
 
 # Decadal variability of temperature in the Southern Ocean
 
