@@ -7,7 +7,7 @@ tags: [documentation,sample]
 image: portrait.png
 ---
 
-Hey there! I'm a postdoc at MIT, working with Dr. Gaël Forget in Prof. Mick Follows group. My research interests lie broadly in interaction between pole regions (Arctic and Antarctica) and mid-latitude climate, ocean heat transport and storage under climate change, as well as long-term trend and decadal varibility in atmosphere and ocean.
+Hey there! I'm a postdoc at MIT, working with Dr. Gaël Forget in Prof. Mick Follows group. My research interests lie broadly in interaction between polar regions (Arctic and Antarctica) and mid-latitude climate, ocean heat transport and storage under climate change, as well as long-term trend and decadal varibility in atmosphere and ocean.
 
 The key scientific questions to me are:
 
